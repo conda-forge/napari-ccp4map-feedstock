@@ -42,4 +42,5 @@ about:
 extra:
   recipe-maintainers:
     - biberger
-    - conda-forge/napari
+    - goanpeca
+    - jaimergp
